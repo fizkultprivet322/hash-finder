@@ -31,7 +31,7 @@ Ensure you have the following tools installed:
 After building the program, you can run it using the following command:
 
 ```bash
-./target/release/hash_finder -N <number_of_zeros> -F <number_of_results>
+./target/release/hash-finder.exe -N <number_of_zeros> -F <number_of_results>
 ```
 
 Where:
